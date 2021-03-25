@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/07/08 17:16:54.000.403,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020/07/08 17:24:46.000.446,H:\0_公司\國土測繪中心WMS服務\Unit2.dfm=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2020/07/08 17:24:46.000.446,H:\0_公司\國土測繪中心WMS服務\Unit2.pas=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020/07/08 17:24:53.000.246,H:\0_公司\國土測繪中心WMS服務\WMS.dproj=C:\Users\user\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>2020/12/02 14:43:54.000.106,=H:\0_公司\國土測繪中心WMS服務\Unit1.pas</Transaction>
+    <Transaction>2020/12/02 14:44:09.000.354,H:\0_公司\國土測繪中心WMS服務\Unit1.dfm=H:\0_公司\國土測繪中心WMS服務\DM.dfm</Transaction>
+    <Transaction>2020/12/02 14:44:09.000.354,H:\0_公司\國土測繪中心WMS服務\Unit1.pas=H:\0_公司\國土測繪中心WMS服務\DM.pas</Transaction>
+  </Transactions>
+</BorlandProject>
